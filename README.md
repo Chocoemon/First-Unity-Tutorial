@@ -11,9 +11,11 @@
 - 현재 컴퓨터에 IDE가 없거나, 유니티용으로 IDE를 설치해보지 않은 분들은 이 단계 완료 후 A 단계로 넘어가시면 됩니다. 
 1. 비쥬얼 스튜디오 사이트에 접속합니다. (https://visualstudio.microsoft.com/ko/free-developer-offers/)
 2. 사이트를 열어 자신의 OS에 맞게 빨간색 박스 안에서 한 개를 선택해 설치합니다. 
-![image](https://user-images.githubusercontent.com/68228162/161474083-de8d5ea3-ea26-49a6-aec6-76a6c4b057e8.png)
-3. 
+![111](https://user-images.githubusercontent.com/68228162/161474919-1aeaa8f5-a742-4b72-b514-70d279ec91a4.png)
 
+
+3. 비쥬얼 스튜디오 설치 시, 빨간 박스을 필히 체크하여 설치 부탁드립니다. 
+![111](https://user-images.githubusercontent.com/68228162/161474814-b5b12284-1ba4-43a2-ba07-0778aa093d52.png)
 
 
 ### A. 유니티 설치하기  

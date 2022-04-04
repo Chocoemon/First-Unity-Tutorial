@@ -5,6 +5,17 @@
 - 유니티의 기본 튜토리얼인 Roll-A-Ball을 기반으로 작성하였습니다. 
 
 # 2. 사용을 위한 기초 설정  ***GuideLine***
+
+### PRE. IDE 설치하기
+- 유니티에서 스크립트를 작성하려면, IDE가 필요합니다.
+- 현재 컴퓨터에 IDE가 없거나, 유니티용으로 IDE를 설치해보지 않은 분들은 이 단계 완료 후 A 단계로 넘어가시면 됩니다. 
+1. 비쥬얼 스튜디오 사이트에 접속합니다. (https://visualstudio.microsoft.com/ko/free-developer-offers/)
+2. 사이트를 열어 자신의 OS에 맞게 빨간색 박스 안에서 한 개를 선택해 설치합니다. 
+![image](https://user-images.githubusercontent.com/68228162/161474083-de8d5ea3-ea26-49a6-aec6-76a6c4b057e8.png)
+3. 
+
+
+
 ### A. 유니티 설치하기  
 1. 첨부된 링크의 홈페이지에 접속합니다. (https://unity3d.com/kr/get-unity/download)
 2. 빨간색 박스를 클릭합니다.
@@ -25,5 +36,3 @@
 ### B. 튜토리얼 따라하기 
 1. A단계가 완료되면, 아래의 링크를 통해 동영상을 시청하며 따라 학습하시면 됩니다 .
 https://learn.unity.com/project/roll-a-ball-1?uv=2019.4
-
-

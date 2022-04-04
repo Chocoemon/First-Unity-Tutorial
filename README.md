@@ -8,10 +8,11 @@
 ### A. 유니티 설치하기  
 1. 첨부된 링크의 홈페이지에 접속합니다. (https://unity3d.com/kr/get-unity/download)
 2. 빨간색 박스를 클릭합니다.
- ![image](https://user-images.githubusercontent.com/68228162/161473016-221bbf73-0671-47ea-bd9f-28f1b30241eb.png)
+![111](https://user-images.githubusercontent.com/68228162/161473522-6a9ddfda-9bd8-4dd8-b4ee-77b8087afa2d.jpg)
 
 
-3. ![image](https://user-images.githubusercontent.com/68228162/161473161-06ed0b04-e8bc-46f7-a3ac-4c9b0bbe0215.png)
+3.  
+![image](https://user-images.githubusercontent.com/68228162/161473161-06ed0b04-e8bc-46f7-a3ac-4c9b0bbe0215.png)
 
 
 4. 다음을 누릅니다.

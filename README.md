@@ -14,8 +14,7 @@
 3. 유니티 허브의 설치가 완료되면, 설치탭으로 이동합니다.
 ![image](https://user-images.githubusercontent.com/68228162/161473161-06ed0b04-e8bc-46f7-a3ac-4c9b0bbe0215.png)
 
-
-4. 다음을 누릅니다.
+4. 설치탭에서 추가를 누릅니다. 
 ![image](https://user-images.githubusercontent.com/68228162/161473190-c7342d30-262a-4090-9914-5f82a1027b1b.png)
 
 5. 아래와 같이 체크하고, 다음을 클릭합니다. (+ Windows Build Support도 클릭해야함) 

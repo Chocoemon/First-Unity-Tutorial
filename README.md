@@ -11,7 +11,7 @@
 ![111](https://user-images.githubusercontent.com/68228162/161473622-51dc819d-dec0-40aa-b624-6c2a192abaa5.png)
 
 
-3.  
+3. 유니티 허브의 설치가 완료되면, 설치탭으로 이동합니다.
 ![image](https://user-images.githubusercontent.com/68228162/161473161-06ed0b04-e8bc-46f7-a3ac-4c9b0bbe0215.png)
 
 

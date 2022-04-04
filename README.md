@@ -1,2 +1,27 @@
 # First-Unity-Tutorial
-처음 유니티를 접하는 분들을 위한 튜토리얼입니다. 
+# 1. 개요 
+- ***유니티의 가장 기초적인 학습***을 진행하고자 만든 테스트 프로젝트입니다.#
+- 이 프로젝트를 따라한다면, 유니티의 기초적인 구조를 학습할 수 있습니다. 
+- 유니티의 기본 튜토리얼인 Roll-A-Ball을 기반으로 작성하였습니다. 
+
+# 2. 사용을 위한 기초 설정  ***GuideLine***
+### A. 유니티 설치하기  
+1. 첨부된 링크의 홈페이지에 접속합니다. (https://unity3d.com/kr/get-unity/download)
+2. ![image](https://user-images.githubusercontent.com/68228162/161473016-221bbf73-0671-47ea-bd9f-28f1b30241eb.png)
+
+빨간색 박스를 클릭합니다.
+
+3. ![image](https://user-images.githubusercontent.com/68228162/161473161-06ed0b04-e8bc-46f7-a3ac-4c9b0bbe0215.png)
+빨간색 박스를 클릭합니다.
+
+4. ![image](https://user-images.githubusercontent.com/68228162/161473190-c7342d30-262a-4090-9914-5f82a1027b1b.png)
+다음을 누릅니다.
+
+5. ![image](https://user-images.githubusercontent.com/68228162/161473206-0b66c665-94c1-46e6-9324-1e98d1ca8258.png)
+아래와 같이 체크하고, 다음을 클릭합니다. (+ Windows Build Support도 클릭해야함) 
+
+### B. 튜토리얼 따라하기 
+1. A단계가 완료되면, 아래의 링크를 통해 동영상을 시청하며 따라 학습하시면 됩니다 .
+https://learn.unity.com/project/roll-a-ball-1?uv=2019.4
+
+

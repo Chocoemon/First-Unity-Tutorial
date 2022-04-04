@@ -43,15 +43,22 @@ https://learn.unity.com/project/roll-a-ball-1?uv=2019.4
 
 # 3. 학습을 위한 Keyword  ***GuideLine***
 A. GameObject
+- 유니티내에서 컴포넌트를 담을 수 있는 컨테이너의 역할
 
 B. Transform
+- 게임오브젝트의 위치, 크기, 회전 정도에 대한 정보를 담고있는 컴포넌트. 
 
 C. Component
+- 게임 오브젝트에 기능을 불어넣어주는 장치. 
 
 D. RigidBody
+- 게임오브젝트가 물리적인 연산에 의해 움직이도록 도와주는 컴포넌트.
 
 E. Collider
+- 물체가 충돌을 감지하도록 해주는 컴포넌트. IsTrigger를 체크하면 충돌은 감지하나 물체가 통과한다. 
 
-F. Hierachy
+F. Script
+- 컴포넌트 중 하나로, 게임오브젝트에 코드를 붙여 코드가 컴포넌트의 역할을 하도록함.
 
-G. Inspector 
+※ 유니티 공식 Document 사이트
+https://docs.unity3d.com/Manual/index.html

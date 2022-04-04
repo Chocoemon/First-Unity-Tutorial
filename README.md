@@ -38,4 +38,20 @@
 ### B. 튜토리얼 따라하기 
 - A단계가 완료되면, 아래의 링크를 통해 동영상을 시청하며 따라 학습하시면 됩니다 .
 https://learn.unity.com/project/roll-a-ball-1?uv=2019.4
-- 
+
+
+
+# 3. 학습을 위한 Keyword  ***GuideLine***
+A. GameObject
+
+B. Transform
+
+C. Component
+
+D. RigidBody
+
+E. Collider
+
+F. Hierachy
+
+G. Inspector 
